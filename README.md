@@ -6,7 +6,7 @@
 + [Deployment](#deployment)
 ---
 ## Description <a name = "description"></a>
-The application is a web scrapper which scrapes an amazon product webpage with given url or productid. Based on different api endpoints, different responses are received. the endpoints are: 
+The application is a web scrapper which scrapes product data from amazon webpage with a given url or productid. Based on different api endpoints, different responses are received. The endpoints are: 
 + GetHtml 
 + GetProductDetails 
 + GetProductDetailsHistory
