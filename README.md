@@ -27,7 +27,7 @@ The application is a web scrapper which scrapes product data from amazon webpage
 ---
 ## Deployment : <a name = "deployment"></a>
 
-Currently, the application is hosted locally and the ip is mapped to [public ip](http://cd8aa7aa3fb6.ngrok.io) via ng-rok. 
+Currently, the application is hosted locally and the ip is mapped to public ip via ng-rok. 
 
 
 The postman collection can be found at this [link](https://drive.google.com/drive/folders/1CP2s23XJWYdaR0xAr_SKfNuQ7hSWS584?usp=sharing)
